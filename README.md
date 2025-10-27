@@ -1,69 +1,78 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#FF7F50;">Mahesh Patgar</span></h1>
-<h3 align="center">🚀 Web Developer | React | JavaScript | AI in UI/UX</h3>
+<h1 align="center">👋 Hi there, I'm <span style="color:#FF7F50;">Mahesh Patgar</span></h1>
 
 <p align="center">
-  <img src="https://github.com/Maheshpatgar488.png" width="120" height="120" style="border-radius:50%;" alt="Mahesh Patgar Avatar"/>
+  💻 <b>Web Developer | Frontend Engineer | React Enthusiast</b>  
+</p>
+
+<p align="center">
+  <i>Turning ideas into interactive, modern, and scalable web experiences 🚀</i>
 </p>
 
 ---
 
-<!-- Banner -->
+## 🧠 About Me  
+
+I’m a passionate developer focused on **React.js**, **Tailwind CSS**, and clean, responsive UI.  
+Building beautiful web apps and experimenting with **AI + UI/UX** is my favorite thing to do.  
+
+🌱 Currently improving:
+- Advanced React patterns & optimization  
+- Integrating AI APIs into frontend workflows  
+- UX design with accessibility focus  
+
+---
+
+## ⚡ Tech Stack  
+
+<div align="center">
+
+| Frontend | Backend | Tools | Hosting |
+|-----------|----------|--------|----------|
+| React.js, Next.js, HTML, CSS, Tailwind, Bootstrap | Node.js, Express.js | Git, GitHub, VS Code | Netlify, Vercel |
+
+</div>
+
+---
+
+## 🚀 Featured Projects  
+
+| Project | Description | Live Demo |
+|----------|--------------|------------|
+| 🛒 **E-commerce Store** | A modern and responsive shopping app built with React & Tailwind CSS | [Live Demo](https://your-live-demo-link.com) |
+| 💼 **Portfolio Website** | Personal portfolio to showcase my web development projects | [Live Demo](https://your-portfolio-link.com) |
+| 🎨 **AI UI/UX Concepts** | Exploring how AI can assist in designing wireframes | [LinkedIn Post](https://www.linkedin.com/in/maheshpatgar) |
+
+---
+
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://i.imgur.com/zS6z4sb.gif" width="100%" alt="animated banner">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maheshpatgar488&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF7F50&icon_color=FF7F50" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Maheshpatgar488&theme=tokyonight&hide_border=true&background=0D1117&ring=FF7F50&fire=FF7F50&currStreakLabel=FF7F50" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheshpatgar488&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF7F50" width="48%" alt="Top Languages" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-🌟 Passionate about building **modern, responsive web applications** using  
-**React, Tailwind CSS, and AI-driven design approaches**.
-
-💡 Always exploring new technologies, improving UI/UX,  
-and helping others understand clean front-end architecture.
-
-🎯 **Currently working on:** Building sleek, responsive React apps  
-🌱 **Learning:** Next.js & Framer Motion  
-⚡ **Fun Fact:** I love turning UI ideas into real-world interactive experiences!
-
----
-
-## 🛠️ Tech Stack
+## 💬 Connect With Me  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,figma,vscode" />
+  <a href="https://linkedin.com/in/maheshpatgar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/maheshpatgar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:maheshpatgar488@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://maheshpatgar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌈 Fun Fact  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maheshpatgar488&show_icons=true&theme=radical" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshpatgar488&theme=radical" alt="GitHub streak" height="150"/>
-</p>
+> “Every great website starts with a single `<div>` and a developer’s creativity!” 😄  
 
 ---
 
-## 🌈 Featured Projects
-
-🎨 **Grocify – Grocery Store Web App**  
-🛒 Built with **React + Tailwind CSS**, includes cart, search, and category filters  
-🔗 [Live Demo](https://your-netlify-url-here) | [Code](https://github.com/Maheshpatgar488/grocify)
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:maheshpatgar488@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/maheshpatgar488/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Maheshpatgar488"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff7f50&height=100&section=footer"/>
-</p>
+⭐️ From [Maheshpatgar488](https://github.com/Maheshpatgar488)
