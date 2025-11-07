@@ -40,7 +40,7 @@ Building beautiful web apps and experimenting with **AI + UI/UX** is my favorite
 | Project | Description | Live Demo |
 |----------|--------------|------------|
 | 🛒 **E-commerce Store** | A modern and responsive shopping app built with React & Tailwind CSS | [Live Demo](https://your-live-demo-link.com) |
-| 💼 **Portfolio Website** | Personal portfolio to showcase my web development projects | [Live Demo](https://your-portfolio-link.com) |
+| 💼 **Portfolio Website** | Personal portfolio to showcase my web development projects | [Live Demo]([https://mahesh-react-portfolio-eta.vercel.app/]) |
 | 🎨 **AI UI/UX Concepts** | Exploring how AI can assist in designing wireframes | [LinkedIn Post](https://www.linkedin.com/in/maheshpatgar) |
 
 ---
