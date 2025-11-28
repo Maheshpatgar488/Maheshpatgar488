@@ -61,10 +61,9 @@ Building beautiful web apps and experimenting with **AI + UI/UX** is my favorite
 ## 💬 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/maheshpatgar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/maheshpatgar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/mahesh-patgar-795979360/]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:maheshpatgar488@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://maheshpatgar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://mahesh-react-portfolio-eta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
