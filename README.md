@@ -45,18 +45,17 @@ Building beautiful web apps and experimenting with **AI + UI/UX** is my favorite
 
 ---
 
-## 📊 GitHub Stats  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maheshpatgar488&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF7F50&icon_color=FF7F50" width="48%" alt="GitHub Stats" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Maheshpatgar488&theme=tokyonight&hide_border=true&background=0D1117&ring=FF7F50&fire=FF7F50&currStreakLabel=FF7F50" width="48%" alt="GitHub Streak" /> -->
+ 
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheshpatgar488&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF7F50" width="48%" alt="Top Languages" />
-</p>
+</p> -->
 
----
+
 
 ## 💬 Connect With Me  
 
